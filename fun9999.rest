@@ -1,0 +1,8 @@
+POST https://fun9999.co/api/front/placebet
+Authorization: Bearer ac073e1f-59a7-4a63-b49c-49403190cfe4
+Cookie: g_token=s:Zbi-jdCU7xtcvt3VqZ3KdX7-Ak1A2jP6.i/fJS1yhmXSXte0hLtIxYedz10OopbWZidaL4+RfzeE; __cf_bm=wIVhTUdGC7WdWVJQ1TsvzWWfNbMAALMUTx5PIwkjIuY-1679750827-0-AQuAMy/Wz1M5R50Y6hdegeXwVg9aRzmR5QG2nP7zxMUwMntpNVLijrmJbAdDJPumOoYCV208VLazxPhJYj21w0U=; _cfuvid=LYQ19d31TONDQ.JlNu.pP4bhx6D1ySbag1HfBTnEg0k-1679750827492-0-604800000; rememberMe=true; token=ac073e1f-59a7-4a63-b49c-49403190cfe4
+Content-Type: application/json
+
+{
+    "data": "U2FsdGVkX18u4LdVYTo6+iVbSLrcS3qRh1nj+Gji91aTQLuIOTUFK5eVIEgFV4bQZT18N3nxrKEdOb+pUGS5zG6ymEobA/YW/KPjVEB7Bd9F+tPlCkhZbks1JQo7ea9yD+5qnRuw/PYHT4RaMj6BtHdqrcIU9+K1x2vPGbyz1lSJrGi+XEkRYxzldFnPq39gp+xpGohwXAy/49DxN+jSb8Z+1Gu0RfA/0G01I8DYymuVa0e3AAkhpAE7VU9HwQQQIBrJLPtc672Z56k9K95PjLdA1uOCjURTkGLEbVQ7iYN9Ee/jD+7cFO9SFTPnWQHq1YXj1ETpcaFEV2DqmPUYP1hdp0Ke6xuhnslgQZjpMWhU+jjGV8aaRwYTqyfZFCp91jEEsK43L9jbLaigEQMpHh9/tB81yxFLqhRNKXylC9y4vBLamOqnBNXho2ASxoyZ"
+}
